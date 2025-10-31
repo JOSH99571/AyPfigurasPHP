@@ -1,4 +1,4 @@
-Ejemplo 1 (Aplicación Web)
+
 Nombre del proyecto: Figuras geométricas - Área y perímetro- PHP.
 Descripción del proyecto: Se presenta una pantalla principal con las figuras geométricas más comunes Cuadrado, Circulo y Triangulo, al dar click en las figuras, se da paso a otra pantalla donde se solicita que el usuario capture la medida del lado (para el cuadrado), el radio (para el circulo) y el lado, la base y altura (para el triángulo). Al dar click en el botón de calcular se muestra el resultado del cálculo de área y perímetro de la figura seleccionada.
 Tecnologías usadas: HTML5, CSS3, PHP7 e imágenes PNG.
